@@ -1,0 +1,13 @@
+{
+  "bindAddress": "0.0.0.0",
+  "apiWhitelist": [
+    "0.0.0.0/0",
+    "::/0"
+  ],
+  "apiDocumentationEnabled": true,
+  "apiRestricted": false,
+  "minBlockchainPeers": 3,
+  "autoUpdateEnabled": false,
+  "maxPeers": 5,
+  "localAuthBypassEnabled": true
+}
